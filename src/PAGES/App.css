@@ -1,0 +1,38 @@
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color: white;
+}
+
+/* button a{
+    text-decoration: none;
+    color: black;
+  } */
+
+#Home img {
+  clip-path: polygon(50% 0%, 100% 0, 100% 60%, 100% 100%, 25% 100%, 0% 60%, 0 0);
+}
+
+#About img {
+  clip-path: polygon(20% 0%, 80% 0%, 100% 0, 100% 80%, 80% 100%, 20% 100%, 0 100%, 0% 20%);
+
+}
+
+.home {
+  min-height: 91vh;
+}
+
+.skills {
+  min-height: 100vh;
+}
+
+.about {
+  min-height: 100vh;
+}
+
+.contact {
+  min-height: 100vh;
+}
